@@ -29,6 +29,8 @@
  perciò per fermarsi prima di 1000 bisogna stampare la potenza prima di incrementarla
  perché altrimenti il controllo viene fatto dopo e si sfora
  
+
+ 1. 
 ---
 ### JSnack 8
 
