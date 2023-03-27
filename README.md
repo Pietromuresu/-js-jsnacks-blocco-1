@@ -17,6 +17,10 @@
 
  Stampa il cubo dei primi N numeri, dove N è un numero indicato dall’utente.
 
+ 1. creare un array con dei numeri dentro 
+ 2. chidere all'utente fino a che numero bisogna fare il cubo
+ 3. fare il cubo dei numeri fino al limite impostato dall'utente
+
 --- 
 ### JSnack 7
 
